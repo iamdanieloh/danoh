@@ -32,9 +32,9 @@ var Homepage = React.createClass({
             <hr />
             <ul className="social">
    
-               <li><a href="https://twitter.com/danieloh84"><i className="fa fa-twitter"></i></a></li> 
-               <li><a href="https://www.linkedin.com/in/danieloh612"><i className="fa fa-linkedin"></i></a></li>
-               <li><a href="https://github.com/iamdanieloh"><i className="fa fa-github"></i></a></li>
+               <li><a href="http://twitter.com/danieloh84"><i className="fa fa-twitter"></i></a></li> 
+               <li><a href="http://www.linkedin.com/in/danieloh612"><i className="fa fa-linkedin"></i></a></li>
+               <li><a href="http://github.com/iamdanieloh"><i className="fa fa-github"></i></a></li>
             </ul>
          </div>
       </div>
