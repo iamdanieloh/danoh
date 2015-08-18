@@ -49,7 +49,7 @@ var Homepage = React.createClass({
 
           <div className="mastfoot">
             <div className="inner">
-              <p><a href="http://madewithloveinbaltimore.org">Made with <span className="color2">&hearts;</span> in Baltimore</a>, by <a href="https://twitter.com/danieloh84">@danieloh84</a>.</p>
+              <p><a href="http://madewithloveinbaltimore.org">Made with <span className="color2">&hearts;</span> in Baltimore</a>, by <a href="http://twitter.com/danieloh84">@danieloh84</a>.</p>
             </div>
           </div>
 
